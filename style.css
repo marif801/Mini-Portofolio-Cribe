@@ -531,6 +531,11 @@ body.dark-theme {
   color: var(--text-color-light);
 }
 
+.ads a img {
+  left: 25%;
+  margin-bottom: 3%;
+}
+
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar {
   width: .6rem;
