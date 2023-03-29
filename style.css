@@ -351,11 +351,12 @@ body.dark-theme {
 }
 
 .projects__subtitle {
-  font-size: var(--smaller-font-size);
+  font-size: var(--p-font-size);
 }
 
 .projects__title {
   font-size: var(--h2-font-size);
+  margin-top: 0;
   margin-bottom: .75rem;
 }
 
@@ -400,11 +401,12 @@ body.dark-theme {
 }
 
 .repositor__subtitle {
-  font-size: var(--smaller-font-size);
+  font-size: var(--p-font-size);
 }
 
 .repositor__title {
   font-size: var(--h3-font-size);
+  margin-top: 0;
   margin-bottom: .75rem;
 }
 
@@ -449,11 +451,12 @@ body.dark-theme {
 }
 
 .sertifikat__subtitle {
-  font-size: var(--smaller-font-size);
+  font-size: var(--p-font-size);
 }
 
 .sertifikat__title {
   font-size: var(--h3-font-size);
+  margin-top: 0;
   margin-bottom: .75rem;
 }
 
